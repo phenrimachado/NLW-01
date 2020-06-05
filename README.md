@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img alt="Logo Next Level Week" title="#NextLevelWeek" src="./.github/app-mobile.png" width="300px" />
-  <img alt="Logo Next Level Week" title="#NextLevelWeek" src="./.github/logo.svg" width="300px" />
+  <img alt="Logo Next Level Week" title="#NextLevelWeek" src="./.github/app-mobile-nlw.png" width="300px" />
 </h1>
 
 <h2>
