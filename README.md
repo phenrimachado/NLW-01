@@ -5,7 +5,7 @@
 <h2>
   Next Level Week #01 - Ecoleta
 </h2>
->
+
 <p align="center">
   <a href="https://www.linkedin.com/in/pedrohenrique-machado/">
     <img alt="Made by phenrimachado" src="https://img.shields.io/badge/made%20by-phenrimachado-%2304D361">
@@ -22,15 +22,15 @@
 </p>
 
 <p align="center">
-  <a href="#-next-level-week?">Next Level Week</a>&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+  <a href="#-next-level-week">Next Level Week</a>&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to install and run</a>&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;<a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-use">How to install and run</a>&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;<a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
 
-# Next Level Week?
+# 💭 Next Level Week?
 
 Next Level Week is a technology week focused on learning web development using the latest technologies in the job market.
 
